@@ -21,7 +21,7 @@ This project was developed as part of a group team effort and is currently not o
 
 If you encounter any issues or have suggestions for improvement, please create an issue in the repository's issue tracker.
 
-Contact
+# Contact
 For questions or inquiries about this project, please contact:
 
 Developers:  Mohammed Sherif Safa, Fouad Soliman
